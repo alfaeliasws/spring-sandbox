@@ -1,0 +1,2 @@
+2024-03-23T16:09:39.992+07:00  WARN 7960 --- [Spring Logging] [main] be.springlogging.LoggingTest             : Belajar Spring
+2024-03-23T16:09:40.010+07:00 ERROR 7960 --- [Spring Logging] [main] be.springlogging.LoggingTest             : Belajar Programmer Zaman Now
